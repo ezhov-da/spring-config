@@ -1,0 +1,3 @@
+spring:
+  ldap:
+    url: dev-ldap
